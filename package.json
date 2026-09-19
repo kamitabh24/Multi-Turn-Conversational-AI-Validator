@@ -1,0 +1,15 @@
+{
+  "name": "ai-chatbot-multiturn-validator",
+  "version": "1.0.0",
+  "description": "Automated workflow to test logic, intent recognition, and session memory of AI customer service chatbots.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "author": "Amitabh Kumar",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.13.0"
+  }
+}
